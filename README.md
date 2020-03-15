@@ -1,4 +1,4 @@
-# Protea-traits-physiolog-fitness
+# Protea-traits-physiology-fitness
 
 Data and code for analysis of associations among traits, physiology,
 and fitness in five species of _Protea_.
