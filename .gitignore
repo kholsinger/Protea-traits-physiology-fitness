@@ -1,0 +1,24 @@
+## Ignore Emacs backup files
+##
+*~
+
+## Miscellaneous R/RStudio files to ignore
+##
+*.Rproj
+*.Rproj.user
+*.Rhistory
+*.Rapp.history
+*.RData
+*.Rsave
+
+## Compiled Stan files
+##
+*.rds
+
+## Miscellaneous files
+##
+results*.txt
+*.pdf
+.Rproj.user
+.DS_Store
+*.zip
